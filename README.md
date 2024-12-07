@@ -1,1 +1,1 @@
-# polyarcade-gunslinger
+# Polyarcade: Gunslinger
